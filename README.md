@@ -61,6 +61,10 @@ Write in the following method.
 3 - Fit Instance – X_train.
 4 - Transform – X_train, X_val, X_test.
 
+- Do the same for Categorical but with constant
+- Do the same for numerical using StandardScaling
+- Do the same for categorical encoding using Ordinal Encoding
+
 
 ### 9/ Build Model and Make Predictions
 >Write a code to build Logistic Regression Model.
