@@ -51,7 +51,7 @@ Using dtypes.
 Then print the list of column names.
 
 
-### 8/ Validation Strategy – train test split
+### 8/ Pre-processing framework (Basic)
 >Write a code to perform the following:
 Missing Value Treatment for Numerical features using median.
 Use the numerical list - numerical_columns.
